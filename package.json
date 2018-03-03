@@ -1,0 +1,19 @@
+{
+  "name": "torrentoso",
+  "version": "1.0.0",
+  "description": "Web plataform to search torrent files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charquicat/Torrentoso.git"
+  },
+  "author": "Charquicat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charquicat/Torrentoso/issues"
+  },
+  "homepage": "https://github.com/Charquicat/Torrentoso#readme"
+}

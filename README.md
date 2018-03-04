@@ -3,5 +3,6 @@ Torrentoso es un tracker de torrents pensado para ser una aplicación de escrito
  # Forma de instalación 
  La instalación de Torrentoso es tan simple como dijitar en un terminal:
  nmp install
+ pip install pymongo
  Y para correr la aplicación solo se necesita:
  npm start
